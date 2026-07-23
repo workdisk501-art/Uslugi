@@ -579,8 +579,12 @@ export default function HomePage() {
 
             {/* RIGHT — process diagram */}
             <FadeUp delay={0.12} className="hidden lg:block">
-              <ProcessIllustration />
-            </FadeUp>
+  <img 
+    src="/diagram.png" 
+    alt="Схема управленческого учёта"
+    className="w-full max-w-full h-auto"
+  />
+</FadeUp>
           </div>
         </div>
 
