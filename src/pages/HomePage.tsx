@@ -503,7 +503,7 @@ export default function HomePage() {
               display: 'grid',
               gridTemplateColumns: '460px 1fr',
               gap: 24,
-              alignItems: 'center',
+              alignItems: 'start',
               minWidth: 0,
             }}
           >
