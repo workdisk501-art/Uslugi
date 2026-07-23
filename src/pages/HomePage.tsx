@@ -501,9 +501,10 @@ export default function HomePage() {
           <div
             style={{
               display: 'grid',
-              gridTemplateColumns: '380px 1fr',
-              gap: 72,
+              gridTemplateColumns: '460px 1fr',
+              gap: 24,
               alignItems: 'center',
+              minWidth: 0,
             }}
           >
             {/* LEFT */}
