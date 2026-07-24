@@ -501,7 +501,7 @@ export default function HomePage() {
           <div
             style={{
               display: 'grid',
-              gridTemplateColumns: '480px 1fr',
+              gridTemplateColumns: '460px 1fr',
               gap: 24,
               alignItems: 'start',
               minWidth: 0,
