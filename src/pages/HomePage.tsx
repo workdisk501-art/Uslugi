@@ -502,7 +502,7 @@ export default function HomePage() {
             style={{
               display: 'grid',
               gridTemplateColumns: '520px 1fr',
-              gap: 24,
+              gap: 12,
               alignItems: 'start',
               minWidth: 0,
             }}
