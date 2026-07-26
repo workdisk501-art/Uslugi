@@ -592,7 +592,7 @@ export default function HomePage() {
                     display: 'flex',
                     flexDirection: 'column',
                     gap: 12,
-                    background: '#FFFFFF',
+                    background: '#F8FAFC',
                     padding: '20px 16px',
                     borderRadius: 12,
                     boxShadow: '0 1px 3 px rgba(0,0,0,0,0.06), 0 4px 12px rgba(0,0,0,0,0.04)',
