@@ -593,7 +593,7 @@ export default function HomePage() {
                     flexDirection: 'column',
                     gap: 12,
                     background: '#F8FAFC',
-                    padding: '16px',
+                    padding: '12px',
                     borderRadius: 12,
                     boxShadow: '0 1px 3 px rgba(0,0,0,0,0.06)',
                     border: '1px solid #F1F5F9',
