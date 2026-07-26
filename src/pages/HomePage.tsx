@@ -574,7 +574,7 @@ export default function HomePage() {
         {/* Trust strip */}
         <div
           className="max-w-6xl mx-auto"
-          style={{ padding: '64px 56px 80px' }}
+          style={{ padding: '32px 56px 40px' }}
         >
           <FadeUp delay={0.28}>
             <div
@@ -582,7 +582,7 @@ export default function HomePage() {
                 display: 'grid',
                 gridTemplateColumns: 'repeat(4, 1fr)',
                 borderTop: '1px solid #EEF2FF',
-                paddingTop: 40,
+                paddingTop: 20,
                 gap: 0,
               }}
             >
