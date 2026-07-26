@@ -77,7 +77,7 @@ function MaturityMap() {
           >
             Как обычно развивается система управленческого учёта
           </h2>
-          <p style={{ fontSize: 14, lineHeight: 1.65, color: '#94A3B8', maxWidth: 520, marginBottom: 72 }}>
+          <p style={{ fontSize: 18, lineHeight: 1.65, color: '#94A3B8', maxWidth: 520, marginBottom: 72 }}>
             Большинство компаний проходят эти уровни последовательно. 
           </p>
         </FadeUp>
