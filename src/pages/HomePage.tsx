@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom';
-import { ArrowRight, ChevronRight, ShieldCheck, Settings, TrendingUp, Headphones as HeadphonesIcon, LayoutGrid, Calculator, PieChart, UserX, Search, X, CheckCircle2, BarChart3 } from 'lucide-react';
-import ProcessIllustration from '../components/ProcessIllustration';
+import { ArrowRight, ChevronRight, ShieldCheck, Settings, TrendingUp, Headphones as HeadphonesIcon, LayoutGrid, Calculator, PieChart, UserX, Search, X, CheckCircle2 } from 'lucide-react';
 import { FadeUp } from '../components/animations';
 
 // ─────────────────────────────────────────────────────────────────────────────

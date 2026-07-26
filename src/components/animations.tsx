@@ -1,9 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
 
-interface Props {
-  className?: string;
-}
-
 export function useInView(threshold = 0.15) {
   const ref = useRef<HTMLDivElement>(null);
   const [inView, setInView] = useState(false);
