@@ -63,7 +63,7 @@ function MaturityMap() {
   const curvePath = `M ${points[0].cx} ${points[0].cy} C 180 88, 200 65, ${points[1].cx} ${points[1].cy} S 360 46, ${points[2].cx} ${points[2].cy} S 540 28, ${points[3].cx} ${points[3].cy} S 720 12, ${points[4].cx} ${points[4].cy}`;
 
   return (
-    <section style={{ background: '#0F172A', padding: '112px 0 96px' }}>
+    <section style={{ background: '#0F172A', padding: '48px 0 96px' }}>
       <div style={{ maxWidth: 1200, margin: '0 auto', padding: '0 56px' }}>
 
         {/* Header */}
