@@ -87,9 +87,9 @@ function MaturityMap() {
           <div style={{ position: 'relative', width: '100%', marginBottom: 8 }}>
             {/* SVG trajectory arc */}
             <svg
-              viewBox="0 0 900 160"
+              viewBox="0 0 900 210"
               preserveAspectRatio="none"
-              style={{ width: '100%', height: 160, display: 'block' }}
+              style={{ width: '100%', height: 210, display: 'block' }}
             >
               {/* Dashed path */}
               <path
