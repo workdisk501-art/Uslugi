@@ -589,9 +589,6 @@ export default function HomePage() {
                 <div
                   key={title}
                   style={{
-                    padding: '0 28px 0 0',
-                    borderRight: i < 3 ? '1px solid #EEF2FF' : 'none',
-                    marginRight: i < 3 ? 28 : 0,
                     display: 'flex',
                     flexDirection: 'column',
                     gap: 12,
