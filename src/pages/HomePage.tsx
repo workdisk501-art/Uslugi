@@ -573,7 +573,7 @@ export default function HomePage() {
         {/* Trust strip */}
         <div
           className="max-w-6xl mx-auto"
-          style={{ padding: '32px 56px 40px' }}
+          style={{ padding: '32px 18px 40px' }}
         >
           <FadeUp delay={0.28}>
             <div
