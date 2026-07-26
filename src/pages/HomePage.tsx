@@ -599,6 +599,7 @@ export default function HomePage() {
                       width: 36, height: 36, borderRadius: 9,
                       background: '#EEF2FF',
                       display: 'flex', alignItems: 'center', justifyContent: 'center',
+                      alignSelf: 'center',
                     }}
                   >
                     <Icon size={16} color="#4F46E5" strokeWidth={1.6} />
