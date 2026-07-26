@@ -69,7 +69,7 @@ function MaturityMap() {
         {/* Header */}
         <FadeUp>
           <p style={{ fontSize: 10, fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#6366F1', marginBottom: 20 }}>
-            Карта зрелости
+            
           </p>
           <h2
             className="font-serif"
