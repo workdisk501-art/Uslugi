@@ -511,11 +511,12 @@ export default function HomePage() {
               <FadeUp delay={0.1}>
                 <p
                   style={{
-                    fontSize: 15,
-                    lineHeight: 1.72,
-                    color: '#64748B',
+                    fontSize: 18,
+                    frontWeight: 500,
+                    lineHeight: 1.6,
+                    color: '#1E293B',
                     marginBottom: 40,
-                    maxWidth: 360,
+                    maxWidth: 420,
                   }}
                 >
                   Проектирую и внедряю систему под задачи и процессы вашего бизнеса
