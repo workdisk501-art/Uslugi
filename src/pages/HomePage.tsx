@@ -186,7 +186,7 @@ function MaturityMap() {
         </FadeUp>
 
         {/* Mobile stacked */}
-        <div className="md:hidden" style={{ display: 'flex', flexDirection: 'column', gap: 12, marginBottom: 40 }}>
+        <div className="md:hidden flex flex-col gap-3 mb-10">
           {maturityLevels.map((item, i) => {
             const isLast = i === 4;
             const isMid  = i >= 2;
