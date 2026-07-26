@@ -582,7 +582,7 @@ export default function HomePage() {
                 gridTemplateColumns: 'repeat(4, 1fr)',
                 borderTop: '1px solid #EEF2FF',
                 paddingTop: 20,
-                gap: 0,
+                gap: 24,
               }}
             >
               {trustFeatures.map(({ icon: Icon, title, sub }, i) => (
