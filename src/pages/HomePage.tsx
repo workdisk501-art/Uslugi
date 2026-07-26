@@ -160,7 +160,7 @@ function MaturityMap() {
           </div>
 
           {/* Labels row — single description per level, no duplication */}
-          <div className="hidden md:block" style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: 20, marginBottom: 64 }}>
+          <div className="hidden md:grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: 20, marginBottom: 64 }}>
             {maturityLevels.map((item, i) => {
               const isLast = i === 4;
               const isMid  = i >= 2;
