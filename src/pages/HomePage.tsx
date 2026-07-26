@@ -217,26 +217,21 @@ function MaturityMap() {
         </div>
 
         {/* Callout note */}
-        <FadeUp delay={0.4}>
-          <div style={{
-            display: 'flex', alignItems: 'flex-start', gap: 14,
-            background: '#1E293B', border: '1px solid #334155',
-            borderRadius: 14, padding: '18px 22px',
-            maxWidth: 640,
-          }}>
-            <div style={{
-              width: 32, height: 32, borderRadius: 8, flexShrink: 0,
-              background: '#431407', border: '1px solid #7C2D12',
-              display: 'flex', alignItems: 'center', justifyContent: 'center',
-              fontSize: 15, color: '#FCD9AA',
-            }}>
-              ★
-            </div>
-            <p style={{ fontSize: 13.5, color: '#CBD5E1', lineHeight: 1.6 }}>
-              Большинство компаний застревают на уровне 2. Не потому что не хотят, а потому что нет системы.
-            </p>
-          </div>
-        </FadeUp>
+       <FadeUp delay={0.4}>
+  <p style={{
+    fontSize: 13,
+    color: '#94A3B8',
+    fontStyle: 'italic',
+    textAlign: 'center',
+    marginTop: 16,
+    maxWidth: 560,
+    marginLeft: 'auto',
+    marginRight: 'auto',
+    lineHeight: 1.6,
+  }}>
+    Большинство компаний застревают на уровне 2. Не потому что не хотят, а потому что нет системы.
+  </p>
+</FadeUp>
 
       </div>
     </section>
