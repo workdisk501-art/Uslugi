@@ -78,7 +78,7 @@ function MaturityMap() {
             Как обычно развивается система управленческого учёта
           </h2>
           <p style={{ fontSize: 19, frontWeight: 500, lineHeight: 1.65, color: '#94A3B8', maxWidth: 520, marginBottom: 72 }}>
-            
+          Большинство компаний застревают на 2 уровне.  
           </p>
         </FadeUp>
 
