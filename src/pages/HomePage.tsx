@@ -229,7 +229,7 @@ function MaturityMap() {
     marginRight: 'auto',
     lineHeight: 1.6,
   }}>
-    
+  Большинство компаний без системы в учете застревают на 2 уровне.  
   </p>
 </FadeUp>
 
